@@ -8,3 +8,6 @@ elif lenght>=8:
 	print('yourname is good!')
 elif lenght<4:
 	print('yourname is bad!')
+else:
+	print('what you inputed is not a name')
+print('Sorry!This is a bad program!')
