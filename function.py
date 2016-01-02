@@ -1,3 +1,3 @@
 r = 4 ;
-S = int(3.14 * r * r) ;
+S = str(3.14 * r * r) ;
 print(S)
