@@ -11,3 +11,4 @@ elif lenght<4:
 else:
 	print('what you inputed is not a name')
 print('Sorry!This is a bad program!')
+
