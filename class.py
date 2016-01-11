@@ -35,6 +35,8 @@
 # #ccc.print_score()		
 # ccc.study()		
 
+
+
 class Student(object):
 
 	def get_score(self):
